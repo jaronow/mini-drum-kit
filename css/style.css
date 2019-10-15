@@ -1,3 +1,9 @@
+#drum-kit {
+  background-image: url("../images/audio-board.jpg");
+  background-size: cover;
+}
+
 #title {
   text-align: center;
+  color: green;
 }
