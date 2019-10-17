@@ -7,3 +7,27 @@
   text-align: center;
   color: green;
 }
+
+#drum-keys {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: green;
+  height: 20vh;
+}
+
+.key {
+  margin-top: 300px;
+  margin-left: auto;
+  padding: 20px 20px;
+  width: 80px;
+  text-align: center;
+  text-shadow: 3px 3px 3px gray;
+  border: 3px solid white;
+  box-shadow: 5px 5px 10px green;
+}
+
+kbd {
+  display: block;
+  font-size: 30px;
+}
